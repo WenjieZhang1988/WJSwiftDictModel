@@ -13,7 +13,7 @@
 		1845634B1AC0E7C100CF7FD0 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1845634A1AC0E7C100CF7FD0 /* Images.xcassets */; };
 		1845634E1AC0E7C100CF7FD0 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1845634C1AC0E7C100CF7FD0 /* LaunchScreen.xib */; };
 		1845635A1AC0E7C200CF7FD0 /* WJSwiftDictModelTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 184563591AC0E7C200CF7FD0 /* WJSwiftDictModelTests.swift */; };
-		184563661AC0E93600CF7FD0 /* DictModelManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 184563651AC0E93600CF7FD0 /* DictModelManager.swift */; };
+		184563681AC0EA8B00CF7FD0 /* DictModelManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 184563671AC0EA8B00CF7FD0 /* DictModelManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -37,7 +37,7 @@
 		184563531AC0E7C200CF7FD0 /* WJSwiftDictModelTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WJSwiftDictModelTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		184563581AC0E7C200CF7FD0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		184563591AC0E7C200CF7FD0 /* WJSwiftDictModelTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WJSwiftDictModelTests.swift; sourceTree = "<group>"; };
-		184563651AC0E93600CF7FD0 /* DictModelManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DictModelManager.swift; sourceTree = "<group>"; };
+		184563671AC0EA8B00CF7FD0 /* DictModelManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DictModelManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,7 +81,7 @@
 			children = (
 				184563431AC0E7C100CF7FD0 /* AppDelegate.swift */,
 				184563451AC0E7C100CF7FD0 /* ViewController.swift */,
-				184563651AC0E93600CF7FD0 /* DictModelManager.swift */,
+				184563671AC0EA8B00CF7FD0 /* DictModelManager.swift */,
 				184563411AC0E7C100CF7FD0 /* Supporting Files */,
 			);
 			path = WJSwiftDictModel;
@@ -216,7 +216,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				184563461AC0E7C100CF7FD0 /* ViewController.swift in Sources */,
-				184563661AC0E93600CF7FD0 /* DictModelManager.swift in Sources */,
+				184563681AC0EA8B00CF7FD0 /* DictModelManager.swift in Sources */,
 				184563441AC0E7C100CF7FD0 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

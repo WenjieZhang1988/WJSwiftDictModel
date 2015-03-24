@@ -2,9 +2,9 @@
 //  DictModelManager.swift
 //  DictModelManager
 //
-//  Created by Kevin on 15/3/24.
+//  Created by Kevin on 15/3/4.
 //  Copyright (c) 2015年 Kevin. All rights reserved.
-//  
+//  字典转模型框架
 
 import Foundation
 
